@@ -1,0 +1,7 @@
+﻿  SobelFilterMPI.cpp
+C:\Users\USER\source\repos\SobelFilterMPI\SobelFilterMPI\SobelFilterMPI.cpp(150,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\USER\source\repos\SobelFilterMPI\SobelFilterMPI\SobelFilterMPI.cpp(155,77): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\USER\source\repos\SobelFilterMPI\SobelFilterMPI\SobelFilterMPI.cpp(155,44): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\USER\source\repos\SobelFilterMPI\SobelFilterMPI\SobelFilterMPI.cpp(157,74): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\USER\source\repos\SobelFilterMPI\SobelFilterMPI\SobelFilterMPI.cpp(157,35): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  SobelFilterMPI.vcxproj -> C:\Users\USER\source\repos\SobelFilterMPI\x64\Debug\SobelFilterMPI.exe
