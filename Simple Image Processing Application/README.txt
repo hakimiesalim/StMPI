@@ -4,7 +4,8 @@ This Application is to demonstrate how to use the StMPI library. Below is the re
 2. Install Microsoft MPI or MPICH or any derivation of MPICH in your Windows.
 	- Link for Microsoft MPI: https://www.microsoft.com/en-us/download/details.aspx?id=100593
 3. Install Cincom VisualWorks.
-4. Download the full version of the image processing application.
+4. Download the full version of the image processing application. 
+https://drive.google.com/file/d/1oL8XaFfwhprqioUysIIDMo9VX2--6T6A/view?usp=sharing
 5. Make sure you have CUDA supported machine if you want to process the image using CUDA.
 
 This application use Smalltalk and C++. You can see the Smalltalk code in the ImageProcessing.im file. Double click 'Edit Smalltalk Image' to open it.
